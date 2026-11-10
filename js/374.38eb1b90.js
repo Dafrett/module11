@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmodule11"]=self["webpackChunkmodule11"]||[]).push([[374],{3374:function(e,n,u){u.r(n),u.d(n,{default:function(){return i}});var r=u(641);function o(e,n,u,o,t,s){return(0,r.uX)(),(0,r.CE)("div",null,[...n[0]||(n[0]=[(0,r.Lk)("h1",null,"Invoices",-1)])])}var t=u(8884),s={setup(){(0,t.o)((e,n)=>{const u=window.confirm("Are you sure you want to leave? Invoices are super awesome!");if(!u)return!1})}},c=u(6262);const a=(0,c.A)(s,[["render",o]]);var i=a}}]);
+//# sourceMappingURL=374.38eb1b90.js.map
